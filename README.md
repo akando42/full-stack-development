@@ -2,7 +2,7 @@
 
 ## Frontend
 - [Material UI](https://mui.com/)
-- [NextJS](https://nextjs.org/))
+- [NextJS](https://nextjs.org/)
 - [Flexbox Cheatsheet](https://flexbox.malven.co/)
 
 ## Backend

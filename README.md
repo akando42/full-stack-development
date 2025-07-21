@@ -10,6 +10,7 @@
 - [Flask](https://github.com/pallets/flask)
 - [Laravel](https://github.com/laravel/laravel)
 - [NestJS](https://github.com/nestjs/nest)
+- [FastAPI](https://github.com/fastapi/fastapi)
   
 ## Database
 - [Node SQLite3](https://github.com/TryGhost/node-sqlite3)

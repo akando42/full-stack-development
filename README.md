@@ -14,6 +14,7 @@
 - [Node SQLite3](https://github.com/TryGhost/node-sqlite3)
 - [Node Posgres](https://github.com/brianc/node-postgres)
 - [Prisma](https://www.prisma.io/)
+- [MongoDB](https://github.com/mongodb/mongo)
 
 ## Deployment
 - [Docker](https://docs.docker.com/guides/)

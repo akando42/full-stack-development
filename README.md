@@ -16,7 +16,7 @@
   
 ## Database
 - [Node SQLite3](https://github.com/TryGhost/node-sqlite3) - Node SQLite3 Library
-- [Node Posgres](https://github.com/brianc/node-postgres) - Node Posgres Library
+- [Node Posgres](https://github.com/brianc/node-postgres) - Node PostGREs Library
 - [MongoDB](https://github.com/mongodb/mongo) - MongoDB as a Service
 - [Supabase](https://github.com/supabase/supabase) - PosgresSQL as a Service
 - [Prisma](https://www.prisma.io/)  

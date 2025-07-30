@@ -15,10 +15,11 @@
 - [FastAPI](https://github.com/fastapi/fastapi)
   
 ## Database
-- [Node SQLite3](https://github.com/TryGhost/node-sqlite3)
-- [Node Posgres](https://github.com/brianc/node-postgres)
-- [MongoDB](https://github.com/mongodb/mongo)
-- [Prisma](https://www.prisma.io/) 
+- [Node SQLite3](https://github.com/TryGhost/node-sqlite3) - Node SQLite3 Library
+- [Node Posgres](https://github.com/brianc/node-postgres) - Node Posgres Library
+- [MongoDB](https://github.com/mongodb/mongo) - MongoDB as a Service
+- [Supabase](https://github.com/supabase/supabase) - PosgresSQL as a Service
+- [Prisma](https://www.prisma.io/)  
 
 ## Deployment
 - [Netlify](https://www.netlify.com/)

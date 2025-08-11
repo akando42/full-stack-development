@@ -6,6 +6,9 @@
 - [Bootstrap React](https://github.com/react-bootstrap/react-bootstrap)
 - [Material UI](https://mui.com/)
 
+## Frontend Components
+- [Book Page Flip](https://github.com/Nodlik/react-pageflip)
+- [Calendar Date Range](https://github.com/hypeserver/react-date-range)
 
 ## Backend
 - [Netlify Function](https://docs.netlify.com/build/functions/overview/)
